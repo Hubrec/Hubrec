@@ -16,6 +16,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hubrec&icon=5&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Hubrec&label=Profile%20Visits&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
