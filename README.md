@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/444134344341061634) [![Mail](https://img.shields.io/badge/Mail-%126478DA.svg?logo=Mail&logoColor=white)](mailto:mathis.guein@etu.univ-lyon1.fr) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/444134344341061634) [![Mail](https://img.shields.io/badge/Mail-%126478DA.svg?logo=Mail&logoColor=white)](mailto:mathis.guerin@etu.univ-lyon1.fr) 
 
 
 # 💻 Tech Stack:
